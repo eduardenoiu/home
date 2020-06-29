@@ -1,4 +1,4 @@
-## Eduard Paul Enoiu, Senior Lecturer, PhD, <img src="8cJrE-zJ_400x400.jpg" width="200" height="200">
+## Eduard Paul Enoiu, Senior Lecturer, PhD. <img src="8cJrE-zJ_400x400.jpg" width="150" height="150">
 
 
 
