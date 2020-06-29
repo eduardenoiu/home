@@ -1,6 +1,6 @@
-## Eduard Paul Enoiu, Senior Lecturer, PhD
+## Eduard Paul Enoiu, Senior Lecturer, PhD, <img src="8cJrE-zJ_400x400.jpg" width="200" height="200">
 
-<img src="8cJrE-zJ_400x400.jpg" width="100" height="100">
+
 
 I am a researcher and lecturer at Mälardalen University in Västerås, Sweden, primarily affiliated with the Software Testing Laboratory and the Formal Modelling and Analysis groups at the department of Networked and Embedded Systems. A native of Bucharest, I earned an Engineer's degree from Polytechnic University of Bucharest in 2009 and a PhD from Mälardalen University in 2016. 
 
