@@ -21,6 +21,3 @@ I advise bachelor and master’s theses in all areas that I actively conduct res
 
 5. Engineering Digital Systems and Circuits, especially using Verilog and other HDL architectures, and particularly how they relate to testing.
 
-### Podcast
-
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/335374608&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/eduardenoiu" title="Eduard Enoiu" target="_blank" style="color: #cccccc; text-decoration: none;">Eduard Enoiu</a> · <a href="https://soundcloud.com/eduardenoiu/sets/testing-habits" title="Testing Habits" target="_blank" style="color: #cccccc; text-decoration: none;">Testing Habits</a></div>
